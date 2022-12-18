@@ -1,3 +1,5 @@
+<img src="https://github.com/Creekmore108/vue-rest-api/blob/main/skill01.png">
+<img src="https://github.com/Creekmore108/vue-rest-api/blob/main/skill02.png">
 # vue-rest-api
 
 This template should help get you started developing with Vue 3 in Vite.
